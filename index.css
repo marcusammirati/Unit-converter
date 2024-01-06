@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    text-align: center;
+    
+    
+}
+
+#title-text{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 800;
+    margin-top: 33px;
+}  
+
+#purple-section {
+    background: #6943FF;
+    height: fixed 285px;
+    color: #FFF;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: fixed 550px;
+    
+}
+
+button {
+    padding: 9px 27.5px;
+    width: 117px;
+    height: 42px;
+    margin-top: 25px;
+    background: white;
+    border: none;
+    border-radius: 5px;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    color: #3D3D3D;
+    
+}
+
+input{
+    margin-top: 20px;
+    width: 117px;
+    height: 83px;
+    text-align: center;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 800;
+    background: #6943FF;
+    border: 1px solid white;
+    
+}
+
+input::placeholder {
+    text-align: center;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 800;
+    background: #6943FF;
+    
+}
+    
+    
+    
+/* black section */
+
+#black-section {
+    
+    background: #1F2937;
+    color: #CCC1FF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    height: fixed 729px;
+    width: fixed 550px;
+    padding: 10px;
+    padding-bottom: 30px;
+    
+    
+}
+
+
+#length-section, #volume-section, #mass-section {
+    border-radius: 4.681px 0px 0px 0px;
+    background: #273549;
+    width: 750px;
+    height: 110px;
+    margin: auto;
+    line-height: 20px;   
+}
+
+#volume-section {
+    border-radius: 4.681px 0px 0px 0px;
+    background: #273549;
+    width: 500px;
+    height: 108.573px;
+    margin: auto;
+    width: 750px;
+   
+  
+    
+    
+    
+}
+
+#mass-section {
+    border-radius: 4.681px 0px 0px 0px;
+    background: #273549;
+    width: 500px;
+    height: 108.573px;
+    margin: auto;
+    width: 750px;
+   
+    
+}
+
+.metric-title {
+    
+    color: #CCC1FF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 35px;
+    
+    
+    
+}
+
+
+p {
+    margin-top: -50px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+}
